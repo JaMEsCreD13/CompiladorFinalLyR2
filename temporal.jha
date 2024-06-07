@@ -1,0 +1,8 @@
+Programa ejemplo {
+    int i;
+    int max;
+    max = 10;
+    for (i = 1; i < max; i++) {
+        print [ "Valor de i: " + i ];
+    }
+}
